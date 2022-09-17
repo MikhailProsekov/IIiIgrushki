@@ -61,12 +61,7 @@ Debug.Log("Hello, World");
 ![image](https://user-images.githubusercontent.com/113620568/190837915-6264933c-80b5-4fba-8a6e-8181b2c9967c.png)
 
 
-In [ ]:
-#Import the required modules, numpy for calculation, and Matplotlib for drawing
-import numpy as np
-import matplotlib.pyplot as plt
-#This code is for jupyter Notebook only
-%matplotlib inline
+
 
 # define data, and change list to array
 x = [3,21,22,34,54,34,55,67,89,99]
