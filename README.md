@@ -42,11 +42,11 @@
 Ход работы:
 - На языке Python программы выполняются сразу после написания, для них не требуется предварительно писать, с какими данными нужно работать. Поэтому команда «напечатай Hello World» занимает всего 1 строчку. На языке Unity та же самая команда занимает уже 11 строк.
 
-Код реализации: 
-	На Python: 
-print(‘Hello World’)
-На Unity:
-using System.Collections;
+## Код реализации: 
+## На Python: 
+ print(‘Hello World’)
+## На Unity:
+ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 public class test : MonoBehaviour
