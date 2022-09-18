@@ -40,13 +40,17 @@
 ## Задание 1
 ### Написать программы Hello World на Python и Unity
 Ход работы:
-- На языке Python программы выполняются сразу после написания, для них не требуется предварительно писать, с какими данными нужно работать. Поэтому команда «напечатай Hello World» занимает всего 1 строчку. На языке Unity та же самая команда занимает уже 11 строк.
+- На языке Python программы выполняются сразу после написания, для них не требуется предварительно писать, с какими данными нужно работать. Поэтому команда «напечатай Hello World» занимает всего 2 строчки. На языке Unity та же самая команда занимает уже 11 строк.
 
 ## Код реализации: 
-## На Python: 
+## На Python:
+```py
+In [ ]:
  print(‘Hello World’)
+ ```
 ## На Unity:
- using System.Collections;  
+```py
+using System.Collections;  
 using System.Collections.Generic;  
 using UnityEngine;  
 public class test : MonoBehaviour  
@@ -57,6 +61,7 @@ void Start()
 Debug.Log("Hello, World");  
 }  
 }  
+```
 ![image](https://user-images.githubusercontent.com/113620568/190837908-4d83a2f9-8b07-45f7-ab93-d4b943a8a825.png)
 ![image](https://user-images.githubusercontent.com/113620568/190837915-6264933c-80b5-4fba-8a6e-8181b2c9967c.png)
 
