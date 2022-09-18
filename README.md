@@ -46,17 +46,17 @@
 ## На Python: 
  print(‘Hello World’)
 ## На Unity:
- using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-public class test : MonoBehaviour
-{
-// Start is called before the first frame update 
-void Start()
-{
-Debug.Log("Hello, World");
-}
-}
+ using System.Collections;  
+using System.Collections.Generic;  
+using UnityEngine;  
+public class test : MonoBehaviour  
+{  
+// Start is called before the first frame update   
+void Start()  
+{  
+Debug.Log("Hello, World");  
+}  
+}  
 ![image](https://user-images.githubusercontent.com/113620568/190837908-4d83a2f9-8b07-45f7-ab93-d4b943a8a825.png)
 ![image](https://user-images.githubusercontent.com/113620568/190837915-6264933c-80b5-4fba-8a6e-8181b2c9967c.png)
 
